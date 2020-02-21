@@ -2,9 +2,9 @@
 @font-face {
 	font-family: 'SAP Fiori Icons';
 	src:
-		url('https://xershoxx.github.io/TelekomFonts/SAP-icons.woff2') format('woff2'),
-		url('https://xershoxx.github.io/TelekomFonts/SAP-icons.woff') format('woff'),
-		url('https://xershoxx.github.io/TelekomFonts/SAP-icons.ttf') format('truetype');
+		url('https://xershoxx.github.io/TelekomFonts/SAPIcons/SAP-icons.woff2') format('woff2'),
+		url('https://xershoxx.github.io/TelekomFonts/SAPIcons/SAP-icons.woff') format('woff'),
+		url('https://xershoxx.github.io/TelekomFonts/SAPIcons/SAP-icons.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
