@@ -1,4 +1,4 @@
-/* Deutsche Telekom AG Fonts
+/* Deutsche Telekom AG Fonts */
 @font-face {
   font-family: 'TeleGrotesk Next';
   src:
@@ -7,16 +7,4 @@
     url('https://xershoxx.github.io/TelekomFonts/Desktop/telegrotesknext-regular.ttf') format('truetype'),
   font-weight: normal;
   font-style: normal;
-}
-*/
-
-/* SAP Fiori Icons */
-@font-face {
-	font-family: 'SAP Fiori Icons';
-	src:
-		url('https://xershoxx.github.io/TelekomFonts/SAP-icons.woff2') format('woff2'),
-		url('https://xershoxx.github.io/TelekomFonts/SAP-icons.woff') format('woff'),
-		url('https://xershoxx.github.io/TelekomFonts/SAP-icons.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
 }
