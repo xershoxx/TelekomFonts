@@ -1,8 +1,8 @@
 /* Deutsche Telekom AG Fonts */
 @font-face {
-  font-family: 'SAP Fiori Icons';
+  font-family: 'TeleGrotesk Next';
   src:
-    url('https://<yourserver>/path/to/SAP-icons.woff2') format('woff2'),
+    url('https://github.com/xershoxx/TelekomFonts/tree/master/Webfonts/telegrotesknext-regular.woff2') format('woff2'),
   font-weight: normal;
   font-style: normal;
 }
