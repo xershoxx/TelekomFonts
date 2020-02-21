@@ -3,6 +3,8 @@
   font-family: 'TeleGrotesk Next';
   src:
     url('https://github.com/xershoxx/TelekomFonts/tree/master/Webfonts/telegrotesknext-regular.woff2') format('woff2'),
+    url('https://github.com/xershoxx/TelekomFonts/tree/master/Webfonts/telegrotesknext-regular.woff') format('woff'),
+    url('https://github.com/xershoxx/TelekomFonts/tree/master/Desktop/telegrotesknext-regular.ttf') format('truetype'),
   font-weight: normal;
   font-style: normal;
 }
